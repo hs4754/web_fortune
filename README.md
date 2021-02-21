@@ -1,2 +1,3 @@
-# web_fortune
-2021년 운세 확인 페이지
+# 2021년 운세 확인
+
+* [https://choewy.github.io/web_fortune/index.html]('')
